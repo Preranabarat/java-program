@@ -9,6 +9,8 @@ public class circleCalculator {
         double area =Math.PI*radius*radius;
         double perimeter= 2*Math.PI*radius;
         System.out.println("area of the circle"+area);
-         System.out.println("perimiter of the circle"+perimeter);    
+        System.out.println("perimiter of the circle"+perimeter);  
+
+        sc.close();
     }
 }

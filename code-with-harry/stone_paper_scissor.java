@@ -4,9 +4,9 @@ import java.util.Random;
 
 public class stone_paper_scissor {
   public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
+    Scanner Sc = new Scanner(System.in);
     System.out.println("Enter 0 for stone,1 for paper,2 for scissor");
-    int userInput = sc.nextInt();
+    int userInput = Sc.nextInt();
     Random random = new Random();
     int computerInput = random.nextInt(3);
     if(userInput == computerInput){
@@ -19,5 +19,7 @@ public class stone_paper_scissor {
         System.out.println("computer win!");
     }
     System.out.println("computer choice:"+computerInput);
+    Sc.close();
   }  
+
 }

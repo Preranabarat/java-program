@@ -18,5 +18,6 @@ public class factoriyal {
             // i++;
         //}
         //System.out.println(fact);
+        sc.close();
     }
 }

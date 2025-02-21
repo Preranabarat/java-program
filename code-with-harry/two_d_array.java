@@ -1,6 +1,6 @@
 public class two_d_array {
         public static void main(String[] args) {
-            int [] marks;
+            
             int [][] flats;
             flats = new int[2][3];
             flats[0][0]=101;
