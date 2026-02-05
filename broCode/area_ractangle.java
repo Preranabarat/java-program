@@ -1,4 +1,4 @@
-package broCode_javaFullCource;
+package broCode;
 import java.util.Scanner;
 
 public class area_ractangle { 

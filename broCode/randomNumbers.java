@@ -1,4 +1,4 @@
-package broCode_javaFullCource;
+package broCode;
 
 public class randomNumbers {
     
