@@ -23,7 +23,7 @@ class cellPhone{
     }
        
 }
-public class employee {
+public class Emp{
     public static void main(String[] args) {
         //problem 1
         employee1 obj = new employee1();
